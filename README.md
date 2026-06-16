@@ -5,14 +5,14 @@ This repository contains my weekly assignments and mini-projects completed durin
 ## 📚 What I Learned
 
 ### 🧠 Python Fundamentals
-- Variables, Data Types
+- Variables & Data Types
 - Conditional Statements
 - Loops and Functions
 - Error Handling
 
-### 🏗 Object-Oriented Programming
+### 🏗 Object-Oriented Programming (OOP)
 - Classes & Objects
-- Constructors (__init__)
+- Constructors (`__init__`)
 - Inheritance & Polymorphism
 - Dunder Methods
 - Operator Overloading
@@ -22,17 +22,17 @@ This repository contains my weekly assignments and mini-projects completed durin
 - Working with dictionaries and lists
 - Data validation and error handling
 
-### 📊 Mini Projects
-- Student Grade Analyzer
-- Bank Account System
-- Smart Wallet System
-- Library Management System
-- Expense Tracker
-- Cinema Ticket System
-- Shape Calculator
+### 📊 Mini Projects Included
+- 🏫 Student Grade Analyzer & Report Card Generator
+- 🏦 Bank Account & Smart Wallet Systems
+- 📑 Library Management System & Book Catalogue
+- 💰 Personal Expense Tracker
+- 🎟️ Cinema Ticket System
+- 📐 Shape Calculator & Bio Data Card
 
 ## 🎯 Goal
 To build strong foundations in Python, Data Engineering, and Software Development through hands-on practice.
 
 ## 👨‍💻 Author
-Software Developer & IT Student | Passionate about Backend Development & Data Systems
+**Soyab** | Software Developer & IT Student 
+*Passionate about Backend Development & Data Systems*
